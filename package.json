@@ -1,0 +1,14 @@
+{
+  "name": "blackjack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "puppeteer": "^22.7.0"
+  }
+}
